@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "NavBar-Menuitems"
+		},
+		{
+			"path": "Animated-BarChart"
+		},
+		{
+			"path": "Gmail-Account-From"
+		},
+		{
+			"path": "SeedContents"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Animated-BarChart"
+	}
+}
